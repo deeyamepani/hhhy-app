@@ -164,6 +164,13 @@ if st.button("Generate Meal Plan! Time for a healthy heart!!"):
 	plant-based, seafood, lean meats. Fats and oils should be 2-3 servings of health oils, no trans fat.
 	Sodium should be below 2300 mg. Added sugars should be less than 25 grams for women and less than 36 grams for men.
 	And make sure to create 3 meals for each day so that the meal totals can comply with these guidlines. 
+	I don't just want a meal plan for Sunday and Monday, MAKE SURE you have a meal plan for each day of the week.
+	I need 3 meals for Sunday, 3 for monday, 3 for tuesday, 3 for wednesday, 3 for thursday, 3 for friday, and 
+	3 for saturday. And cooking times should align with what user inputted as how much time they have to cook.
+	PLEASE make sure to pay attention to dietary restrictions, for example, if someone says vegetarian, it CANNOT have 
+	meat, eggs, gelatin, etc. It needs to be perfect with allergies and dietary restrictions to make sure the user
+	gets meal plans that align with their needs. Can you also put down serving size for each meal.
+	And, I'd like you to add the recipe for each meal as well. Like how they make each dish. 
 	Additionally, please put cooking time as well as ingredients, nutritional value, and recipe for each meal. 
 	I'd also like for you to, based on how many times they grocery shop per time period and their supermarket availability
 	to generate a grocery list for the items they'll need for the week. Also, make sure that ingredients aren't wasted
