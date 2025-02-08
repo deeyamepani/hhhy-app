@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 import os
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 st.title("Healthy Heart, Happy You! Welcome to your Happy Heart Meal Planner!")
 st.write("Welcome! This app will generate a personalized weekly meal plan based on your preferences! Get ready for happiness and healthiness!")
