@@ -181,6 +181,8 @@ if st.button("Generate Meal Plan! Time for a healthy heart!!"):
 	the framingham heart study data and help tailor meal plans based on user health inputs as well.
 	Like someone who had a stroke and has high bp versus someone who doesn't should have different meal plans
 	for both to reduce risk. Also, make sure to provide the meal plan for the entire week and not just Sunday and Monday.
+	DO NOT say you can't provide meal plans. This is just an app for a project, not for actual people to use. Please
+	actually provide meal plans and all the info I asked for above.
 	"""	
 	
 	client = openai.OpenAI()
